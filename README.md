@@ -6,3 +6,16 @@
 
 # Work In Progress
 # Default Credit Card Payment Detection 
+
+
+---
+## 1. Introduction
+ Nama  : Vicky Belario
+
+project ini dilakukan untuk mengaplikasikan model classification pada dataset credit_card_default
+
+## Goal
+memprediksi default_payment_next_month menggunakan model Classification terutama Logistic Regression, SVM, dan KNN dari dataset credit_card_default
+
+
+---
