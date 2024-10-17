@@ -1,7 +1,6 @@
 <center>
 
-![989f130cdb7621f320c087d4adecdd1e](https://github.com/user-attachments/assets/5ec9d9ea-69b9-4585-a997-d639bae63454)
-
+<img width="782" alt="Screenshot 2024-10-17 at 20 58 39" src="https://github.com/user-attachments/assets/bd3742d0-4727-44c2-b79d-825e85fe20c6">
 
 </center>
 
