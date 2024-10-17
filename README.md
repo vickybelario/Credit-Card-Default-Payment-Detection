@@ -1,6 +1,6 @@
 <center>
 
- ![How to calculate credit card payment_](https://github.com/user-attachments/assets/5992bd03-af52-410f-af45-439191f8aaf0)
+![989f130cdb7621f320c087d4adecdd1e](https://github.com/user-attachments/assets/5ec9d9ea-69b9-4585-a997-d639bae63454)
 
 
 </center>
