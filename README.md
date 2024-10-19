@@ -4,9 +4,9 @@
 
 </center>
 
-# Work In Progress
 # Credit Card Default Payment Detection 
 
+Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/Credit-Card-Default-Payments-Detection)
 
 ---
 ## 1. Introduction
